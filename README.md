@@ -6,6 +6,7 @@ Lauren McGarvey
 
 Here is text that makes up constitutes my first commit in my first repo.
 I am now adding a new line to this first commit dection of the readme.
+text for another commit. text for yet another commit.
 
 # My second commit
 
